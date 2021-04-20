@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![twitter](icons/twitter.svg)
 <!--
 **rromodev/rromodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
