@@ -1,5 +1,5 @@
 ## Hola, I'm Raúl ★
-FullStack <img alt="javascript" width="18px" src="icons/javascript.svg" /> Developer / Software Engineer 
+<img alt="javascript" width="22px" src="icons/javascript.svg" /> FullStack Javascript Developer / Software Engineer 
 
 ## Contact
 
