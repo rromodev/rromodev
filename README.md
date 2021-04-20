@@ -10,6 +10,7 @@ FullStack <img alt="javascript" width="18px" src="icons/javascript.svg" /> Devel
 <a href="https://www.linkedin.com/in/rromodev/">
   <img align="left" alt="rromodev linkedin" width="22px" src="icons/linkedin.svg" />
 </a>
+<br />
 
 ## About Me
 
@@ -17,8 +18,8 @@ FullStack <img alt="javascript" width="18px" src="icons/javascript.svg" /> Devel
 - 🔭 I’m currently working on [these projects](#projects)
 - 🌱 I’m currently learning in <a href="https://platzi.com/blog/conoce-que-es-platzi-master/">
   <img alt="platzi" width="18px" src="https://static.platzi.com/media/avatars/platziteam_8cfe6fc7-1246-4c9a-9f5d-d10d467443ee.png" /> Platzi Master
-</a>
-- 👯 I’m looking to collaborate on ...
+</a><br />
+- 👯 I’m looking to collaborate on ... <br />
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
