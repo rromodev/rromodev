@@ -1,5 +1,5 @@
-### Hola 👋, I'm Raúl Romo
-![javascript](/icons/javascript.svg "javascript")FullStack JavaScript Developer / Software Engineer 
+## Hola 👋, I'm Raúl Romo
+<img align="left" alt="javascript" width="22px" src="icons/javascript.svg" /> FullStack JavaScript Developer / Software Engineer 
 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 - 🔭 I’m currently working on ...
