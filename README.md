@@ -30,4 +30,9 @@
 
 ### Master CSS Challenges
 
-A Web application where you can learn and upgrade CSS skills solving code challenges 
+<img align="right" width="50%" src="images/Master_Challenges.png" >
+A Web application where you can learn and upgrade CSS skills solving code challenges.
+
+My job was to develop the way the challenges are validated, in this case we use CSSTree and CSSOM to generate a JSON AST from the user's css code, then we apply a set of rules using JSONata.
+
+Also helped with the implementation of a backend with PolkaJS (ExpressJS alternative) and MongoDB Atlas to provide the challenge information
