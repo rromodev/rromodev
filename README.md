@@ -24,7 +24,7 @@
 - 📫 Education recent: 
   - Platzi Master Member (mostly React and Javascript courses)
   - Others: Epic React by Kent C Dodds, React Course by Brad Traversy, Advanced React by Wes Bos
-- 📫 Education recent
+- ✈️ Education past:
   - Microsoft Certified (MCP, MCSA)
   - Coursera: iOS and Android Fundamentals
 - 🧠 Experience recent: 
