@@ -28,4 +28,6 @@
 
 ## Projects
 
-- Project 1
+### Master CSS Challenges
+
+A Web application where you can learn and upgrade CSS skills solving code challenges 
