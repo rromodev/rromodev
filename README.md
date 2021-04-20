@@ -1,11 +1,7 @@
-### Hi there 👋
+### Hola 👋, I'm Raúl Romo
+![javascript](/icons/javascript.svg "javascript")FullStack JavaScript Developer / Software Engineer 
 
-![twitter](icons/twitter.svg)
-<!--
-**rromodev/rromodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+##
+
+<a href="https://twitter.com/rromodev">
+  <img align="left" alt="rromodev twitter" width="22px" src="icons/twitter.svg" />
+</a>
