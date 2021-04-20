@@ -20,6 +20,7 @@
   <img alt="platzi" width="18px" src="https://static.platzi.com/media/avatars/platziteam_8cfe6fc7-1246-4c9a-9f5d-d10d467443ee.png" /> Platzi Master
 </a><br />
 - 🤔 I’m looking for help with React Performance
+- 🤩 I'm interested in Elixir, Golang (esbuild) and WebAssembly
 - 💬 Ask me about JavaScript and WebComponents
 - 📫 Education recent: 
   - Platzi Master Member (mostly React and Javascript courses)
@@ -31,6 +32,7 @@
   - React, Vanilla Javascript, Puppeteer Web Scrapping, ExpressJS API's, Bull-Redis tasks, MongoDB and RethinkDB
 - 😲 Experience past:
   - ASP.NET MVC, EF, Dapper, SQL Server
+  - Appcelerator Mobile
 - ⚡ Fun fact: 日本語を勉強しています
 
 ## Projects
