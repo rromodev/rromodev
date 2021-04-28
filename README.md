@@ -33,7 +33,7 @@
 - 😲 Experience past:
   - ASP.NET MVC, EF, Dapper, SQL Server
   - Appcelerator Mobile
-- ⚡ Fun fact: 日本語を勉強しています
+- ⚡ Fun fact: わたしは にほんごの がくせいです。
 
 ## Projects
 
