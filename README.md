@@ -1,6 +1,8 @@
 ## Hola, I'm Raúl ★
 <img alt="javascript" width="22px" src="icons/javascript.svg" /> FullStack Javascript Developer / Software Engineer 
 
+React and JavaScript Developer, focused, at the moment, on web development. Has 10+ years of experience in a wide variety of tooling (NodeJS, .Net, Appcelerator Mobile and others). Always willing to learn about new IT and dedicated to delivering quality software.
+
 ## Contact
 
 <a href="https://twitter.com/rromodev">
