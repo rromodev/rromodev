@@ -16,23 +16,21 @@ React and JavaScript Developer, focused, at the moment, on web development. Has 
 
 ## About Me
 
-- 🍞 I'm currently looking for opportunities as a Frontend/React/JS Developer.
-- 🔭 I’m currently working on [these projects](#projects)
-- 🌱 I’m currently learning in <a href="https://platzi.com/blog/conoce-que-es-platzi-master/">
-  <img alt="platzi" width="18px" src="https://static.platzi.com/media/avatars/platziteam_8cfe6fc7-1246-4c9a-9f5d-d10d467443ee.png" /> Platzi Master
-</a><br />
-- 🤔 I’m looking for help with React Performance
-- 🤩 I'm interested in Elixir, Golang (esbuild) and WebAssembly
+- 🍞 I'm currently looking for opportunities as a Frontend Javascript / React and Amazon Web Services Developer.
 - 💬 Ask me about JavaScript and WebComponents
-- 📫 Education recent: 
+- 🤩 I'm interested in Zig, Preact, WebAssembly and Web3 Technologies
+- 🔭 I’m currently working on [these projects](#projects)
+- 🌱 I’m currently learning in <a href="https://university.alchemy.com/"> Web3 Alchemy University </a><br />
+- 🤔 I’m looking for help with React Performance
+- 📫 Recent Education: 
   - Platzi Master Member (mostly React and Javascript courses)
   - Others: Epic React by Kent C Dodds, React Course by Brad Traversy, Advanced React by Wes Bos
-- ✈️ Education past:
+- ✈️ Past Education:
   - Microsoft Certified (MCP, MCSA)
   - Coursera: iOS and Android Fundamentals
-- 🧠 Experience recent: 
+- 🧠 Recent Experience: 
   - React, Vanilla Javascript, Puppeteer Web Scrapping, ExpressJS API's, Bull-Redis tasks, MongoDB and RethinkDB
-- 😲 Experience past:
+- 😲 Past Experience:
   - ASP.NET MVC, EF, Dapper, SQL Server
   - Appcelerator Mobile
 - ⚡ Fun fact: わたしは にほんごの がくせいです。
