@@ -16,26 +16,30 @@ React and JavaScript Developer, focused, at the moment, on web development. Has 
 
 ## About Me
 
-- 🍞 I'm currently looking for opportunities as a Frontend Javascript / React and Amazon Web Services Developer.
+- 🍞 I'm currently looking for opportunities as a Frontend Developer with Javascript or React technologies
 - 💬 Ask me about JavaScript and WebComponents
-- 🤩 I'm interested in Zig, Preact, WebAssembly and Web3 Technologies
-- 🔭 I’m currently working on [these projects](#projects)
-- 🌱 I’m currently learning in <a href="https://university.alchemy.com/"> Web3 Alchemy University </a><br />
-- 🤔 I’m looking for help with React Performance
+- 🤩 I'm currently learning Zig, Golang, Preact, WebAssembly and NodeJS microservices
+- 🔭 I’m working on my own UI Library based on Web Components as a side project
+- 🧠 Recent Experience with OpenCV.js, OCR, Web Components, NodeJS
+
+## Experience and Education
+- 😲 Past Experience:
+  - React, Vanilla Javascript, Puppeteer Web Scrapping, ExpressJS API's, Bull-Redis tasks, MongoDB and RethinkDB
+  - ASP.NET MVC, EF, Dapper, SQL Server
+  - Appcelerator Mobile
+  - Web3 technologies like Solidity, ThirdWeb.js, Ether.js, etc
 - 📫 Recent Education: 
   - Platzi Master Member (mostly React and Javascript courses)
   - Others: Epic React by Kent C Dodds, React Course by Brad Traversy, Advanced React by Wes Bos
 - ✈️ Past Education:
   - Microsoft Certified (MCP, MCSA)
   - Coursera: iOS and Android Fundamentals
-- 🧠 Recent Experience: 
-  - React, Vanilla Javascript, Puppeteer Web Scrapping, ExpressJS API's, Bull-Redis tasks, MongoDB and RethinkDB
-- 😲 Past Experience:
-  - ASP.NET MVC, EF, Dapper, SQL Server
-  - Appcelerator Mobile
-- ⚡ Fun fact: わたしは にほんごの がくせいです。
 
 ## Projects
+
+### UI Library
+
+Inspired by Sinuous, Tonic and [other projects](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/) I'm coding a simple UI library using the web components API and the "new" signals pattern.
 
 ### Master CSS Challenges
 
